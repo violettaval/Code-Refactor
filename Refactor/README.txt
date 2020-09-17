@@ -4,3 +4,4 @@ Labeled code structures and removed obsolete and redundancies.
 Left the Webpage in the same state but with clear labeling.
 Links down below
 https://github.com/violettaval/Code-Refactor
+https://violettaval.github.io/Code-Refactor/
